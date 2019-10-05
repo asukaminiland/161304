@@ -1,0 +1,7 @@
+Killed 	Number	Treatment	
+19	38	A1	
+24	29	A2	
+27	50	B1	
+41	50	B2	
+
+
